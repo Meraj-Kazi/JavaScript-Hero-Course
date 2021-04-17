@@ -1,0 +1,26 @@
+header {
+    background-color: #00e600;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 10px;
+}
+
+.header-name {
+    color: #ffffff;
+}
+
+.navbar {
+    font-size: 30px;
+}
+
+.navbar ul {
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
