@@ -20,7 +20,19 @@ header {
     padding: 0;
 }
 
+.navbar ul li {
+    display: inline-block;
+}
+
+.navbar ul li a {
+    color: #000000;
+    list-style: none;
+}
+
 .navbar ul li:hover {
     background-color: #000000;
-    color: #ffffff;
+}
+
+.navbar ul li a:hover {
+    color: orange;
 }
